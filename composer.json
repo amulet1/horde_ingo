@@ -1,5 +1,8 @@
 {
-    "name": "horde/ingo",
+    "name": "horde6/ingo",
+    "replace": {
+        "horde/ingo": "^4 || dev-FRAMEWORK_6_0"
+    },
     "description": "Email filter rules manager application",
     "type": "horde-application",
     "homepage": "https://www.horde.org/apps/ingo",

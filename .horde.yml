@@ -68,4 +68,4 @@ autoload:
     - lib/
   psr-4:
     Horde\Ingo\: /src
-vendor: horde
+vendor: horde6
